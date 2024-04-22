@@ -81,3 +81,4 @@ sudo php artisan migrate
 sudo php artisan db:seed
 sudo systemctl restart apache2
 sudo php artisan serve
+<img width="1127" alt="web app" src="https://github.com/da-nkz/laravel-assignment/assets/57856946/5c5b3209-e444-47af-a061-e170fddb1aec">
